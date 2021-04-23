@@ -12,6 +12,7 @@ Voici un code HTML
 
 ```html
 <p>Coucou tout le monde !!</p>
+<p>Comment allez-vous ?</p>
 ```
 
 fsdhflkhds
