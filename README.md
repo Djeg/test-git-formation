@@ -7,3 +7,9 @@ Ceci est une liste:
 - Numéro 1
 - Numéro 2
 - Numéro 3
+
+Voici un code HTML
+
+```html
+<p>Coucou tout le monde !!</p>
+```
